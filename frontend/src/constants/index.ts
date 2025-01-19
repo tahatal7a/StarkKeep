@@ -1,0 +1,1 @@
+export const CONTRACT_ADDRESS = '0x your_deployed_contract_address';
